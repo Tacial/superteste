@@ -2,5 +2,9 @@
 
 
 ### QAzando
-Instalação, configuração e uso.
+
+> Instalação
+> Configuração
+> Uso
+
 -
