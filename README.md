@@ -3,8 +3,7 @@
 
 ### QAzando
 
-> Instalação
-> Configuração
-> Uso
+> Instalação  
+> Configuração  
+> Uso  
 
--
