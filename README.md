@@ -1,2 +1,5 @@
-## superteste
-## QAzando
+# superteste
+=====================
+
+### QAzando
+Instalação, configuração e uso.
